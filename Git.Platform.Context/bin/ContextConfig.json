@@ -1,0 +1,12 @@
+{
+    "GlobalList": [
+        { "Key": "GIT_RULES_SERVICES_PATH", "Value": "C:\\Users\\USER\\Documents\\JW Developers\\Git.Platform\\Git.Rules.Services\\bin" },
+      {
+        "Key": "FILES_PATH",
+        "Value": "C:\\Files"
+      }
+    ],
+    "InjectionClassList": [
+        { "Namespace": "Git.Rules.Services", "ClassName": "RuleService", "Path": "($GIT_RULES_SERVICES_PATH$)\\Git.Rules.Services.dll" }
+    ]
+}

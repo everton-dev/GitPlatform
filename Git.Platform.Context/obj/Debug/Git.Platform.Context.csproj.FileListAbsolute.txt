@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\JW Developers\Git.Platform\Git.Platform.Context\bin\Git.Platform.Context.dll
+C:\Users\USER\Documents\JW Developers\Git.Platform\Git.Platform.Context\bin\Git.Platform.Context.pdb
+C:\Users\USER\Documents\JW Developers\Git.Platform\Git.Platform.Context\bin\Newtonsoft.Json.dll
+C:\Users\USER\Documents\JW Developers\Git.Platform\Git.Platform.Context\bin\Newtonsoft.Json.xml
+C:\Users\USER\Documents\JW Developers\Git.Platform\Git.Platform.Context\obj\Debug\Git.Platform.Context.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\JW Developers\Git.Platform\Git.Platform.Context\obj\Debug\Git.Platform.Context.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\JW Developers\Git.Platform\Git.Platform.Context\obj\Debug\Git.Platform.Context.dll
+C:\Users\USER\Documents\JW Developers\Git.Platform\Git.Platform.Context\obj\Debug\Git.Platform.Context.pdb

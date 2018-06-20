@@ -1,0 +1,5 @@
+C:\Users\USER\Documents\JW Developers\Git.Platform\Git.Platform.Models\bin\Git.Platform.Models.dll
+C:\Users\USER\Documents\JW Developers\Git.Platform\Git.Platform.Models\bin\Git.Platform.Models.pdb
+C:\Users\USER\Documents\JW Developers\Git.Platform\Git.Platform.Models\obj\Debug\Git.Platform.Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\JW Developers\Git.Platform\Git.Platform.Models\obj\Debug\Git.Platform.Models.dll
+C:\Users\USER\Documents\JW Developers\Git.Platform\Git.Platform.Models\obj\Debug\Git.Platform.Models.pdb
